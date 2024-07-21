@@ -1,2 +1,2 @@
-from mylib.logic import sum
-print(sum(1, 2))
+from mylib.logic import func_sum
+print(func_sum(1, 2))
